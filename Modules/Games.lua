@@ -3,6 +3,7 @@ local Games = {
         ["Name"] = "Da hood",
         ["Photo"] = "17235722298",
         ["Version"] = "1.0.0",
+        ["Script"] = nil,
     }
 }
 
